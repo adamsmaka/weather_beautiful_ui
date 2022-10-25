@@ -1,6 +1,8 @@
 # weather_beautiful_ui
 
-A new Flutter project.
+Inspiration:
+
+![Inspiration Image](inspiration.jpeg?raw=true "Weather App Screen")
 
 ## Getting Started
 
